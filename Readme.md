@@ -1,9 +1,5 @@
 # 자연어 처리를 이용한 청소기 리뷰 평가지표 개발 및 감성분석
 
-[Relations](https://reliable-poultry-5ba.notion.site/a638eb01ae154d3c99a171de7f18b5a6)
-Skills: Github, Jupyter Lab, Python, Slack
-진행 기간: 2022/01/08 → 2022/01/14
-팀 구성: 박유정, 김찬희,  정새하, 정한슬
 
 ### 🔗 Link
 
@@ -13,7 +9,7 @@ Skills: Github, Jupyter Lab, Python, Slack
 
 **PPT**
 
-[](https://github.com/yujeong0121/NLP/blob/main/%EC%82%BC%EC%82%BC%EC%98%A4%EC%98%A4_NLP%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%B2%AD%EC%86%8C%EA%B8%B0%20%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D.pdf)
+[발표자료](https://github.com/yujeong0121/NLP/blob/main/%EC%82%BC%EC%82%BC%EC%98%A4%EC%98%A4_NLP%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%B2%AD%EC%86%8C%EA%B8%B0%20%EB%A6%AC%EB%B7%B0%20%EB%B6%84%EC%84%9D.pdf)
 
 ## ✍️ 요약
 ![요약](https://user-images.githubusercontent.com/94778140/151472716-8f70cbb2-8560-4097-9369-582900e2ac5c.png)
