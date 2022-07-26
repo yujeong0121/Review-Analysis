@@ -5,7 +5,7 @@
 
 **Source**
 
-[소스코드와 데이터를 보시려면 여기를 클릭해 주세요 ]([https://github.com/yujeong0121/NLP/tree/main/code%20and%20data](https://github.com/yujeong0121/Review-Analysis/tree/main/code%20and%20data))
+[소스코드와 데이터를 보시려면 여기를 클릭해 주세요 ]([https://github.com/yujeong0121/NLP/tree/main/code%20and%20data](https://github.com/yujeong0121/Review-Analysis/tree/main/code%20and%20data)
 
 **PPT**
 
